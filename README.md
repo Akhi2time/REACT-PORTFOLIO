@@ -1,3 +1,21 @@
+What was my goal?
+
+My task for this project was to create a portfolio using React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies.
+You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
+
+I Learned
+How to strucutre my code correctly in specefic files for React and organization. How to specefically use github pages to deploy react code. How to write code in the specfic react style.
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
