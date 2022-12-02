@@ -1,10 +1,11 @@
 
 import React from "react";
+import resume from '../materials/Mohamed Mohamed 2022 Resume.pdf';
 
-function Resume() {
+ function Resume() {
     return (
         <div>
-            RESUME
+            <iframe src={resume} height="800" width="800"></iframe>
         </div>
     )
 }
