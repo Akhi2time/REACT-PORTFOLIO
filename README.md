@@ -6,7 +6,8 @@ You’ll need a place not only to share your projects while you're applying for 
 I Learned
 How to strucutre my code correctly in specefic files for React and organization. How to specefically use github pages to deploy react code. How to write code in the specfic react style.
 
-
+GitHub Link: https://github.com/Akhi2time/REACT-PORTFOLIO
+URL Deployed Link: https://akhi2time.github.io/REACT-PORTFOLIO/
 
 
 
